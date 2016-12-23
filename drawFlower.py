@@ -17,8 +17,8 @@ def draw_square():
 
     for i in range(1,37):
         
-        draw_shape(brad)
-        brad.right(5)
+    draw_shape(brad)
+    brad.right(5)
     brad.left(90)
     brad.forward(100)
     window.exitonclick()
